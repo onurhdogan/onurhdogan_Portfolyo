@@ -1,0 +1,26 @@
+.body{
+    background: white url("img/background.jpg");
+}
+
+.pull-center{
+    float  : none ;
+    margin : 0 auto ;
+}
+
+.user-profile-img{
+    width : 150px;
+}
+
+.user-profile{
+    border : 10px solid;
+    background-color:whitesmoke ;
+}
+
+.glyphicon-star{
+    color : #CCCCCC;
+    font-size : 16px;
+}
+
+.glyphicon-star.active{
+    color : #FDB230;
+}
